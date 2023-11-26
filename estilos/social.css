@@ -6,10 +6,6 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-::-webkit-scrollbar{
-    width: 0px;
-    height: 0px;
-}
 
 img{
     width: 100vw;
@@ -24,6 +20,11 @@ a{
     font-weight: bolder;
     text-decoration: none;
     color: white;
+}
+
+::-webkit-scrollbar{
+    width: 0px;
+    height: 0px;
 }
 
 a:hover {
